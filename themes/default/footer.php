@@ -4,7 +4,7 @@
 	                <ul role="navigation">
 	                    <li><a href="/index.php/posts/about">关于</a></li>
 	                    <li><a href="/index.php/posts/contact">联系</a></li>	
-	                     <li><a href="blog.pepfi.com">Blog</a></li>                    
+	                     <li><a href="http://blog.pepfi.com">Blog</a></li>                    
 	                   <!-- <li><a href="<?php echo base_url(); ?>" title="Return to my website.">Home</a></li> -->
 	                    <img src="<?php echo theme_url('img/weixin.05.jpg'); ?>" />
 	                </ul>
