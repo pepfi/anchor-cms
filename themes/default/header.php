@@ -2,7 +2,9 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title><?php echo page_title('Page can’t be found'); ?> - <?php echo site_name(); ?></title>
+		<!--<title><?php echo page_title('Page can’t be found'); ?> - <?php echo site_name(); ?></title> -->
+
+		<title>百飞网</title>
 
 		<meta name="description" content="<?php echo site_description(); ?>">
 
@@ -65,7 +67,8 @@
 			</div>
 
 			<header id="top">
-				<a id="logo" href="<?php echo base_url(); ?>"><?php echo site_name(); ?></a>
+
+				<a id="logo"  href="<?php echo base_url(); ?>"> <img src="<?php echo theme_url('img/logo1.png'); ?>" width="50" height="30" style="float:left"/></a>
 
 				<nav id="main" role="navigation">
 					<ul>

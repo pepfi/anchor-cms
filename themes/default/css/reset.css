@@ -26,6 +26,7 @@ h1, h2, h3, h4, h5, #logo, #top, .slidey b, .slidey label, .counter, input, text
 	font-weight: 300;
 }
 
+
 pre, code, .mono {
 	font: 12px/19px "Anonymous Pro", Consolas, monospace;
 	padding: 0 2px;
